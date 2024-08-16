@@ -111,7 +111,7 @@ const driver = () => {
                   <p><strong>Name:</strong> {profileData.name}</p>
                   <p><strong>Email:</strong> {profileData.email}</p>
                   <p><strong>Phone:</strong> {profileData.phone}</p>
-                  <p><strong>Vehicle:</strong> {profileData.vehicle}</p>
+                  <p><strong>Vehicles: </strong> {profileData.vehicle}</p>
                 </>
               )}
             </div>
