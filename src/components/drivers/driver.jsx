@@ -109,8 +109,8 @@ const driver = () => {
                   <h2>Profile Details</h2>
                   <p><strong>ID:</strong> {profileData.id}</p>
                   <p><strong>Name:</strong> {profileData.name}</p>
-                  <p><strong>Email:</strong> {profileData.email}</p>
-                  <p><strong>Phone:</strong> {profileData.phone}</p>
+                  <p><strong>Emails:</strong> {profileData.email}</p>
+                  <p><strong>Phones:</strong> {profileData.phone}</p>
                   <p><strong>Vehicle: </strong> {profileData.vehicle}</p>
                 </>
               )}
